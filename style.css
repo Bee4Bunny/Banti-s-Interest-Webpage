@@ -1,0 +1,50 @@
+h1 {text-align : center;
+  color: blue;
+  font-size: 80pt;
+  background-color: skyblue;
+  border-style: solid;
+  border-color: black;
+}
+
+h2 { text-align: center;
+  font-size: 40px;
+  color: ;
+  border-style: solid;
+  border-color: black;
+  }
+
+table {
+  background-color: lightgreen;
+  text-align: center;
+  border-style: solid;
+  width: 1080px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+th {
+  border-style: solid;
+}
+
+td {
+  border-style: dotted;
+  border-color: green;
+}
+
+img {
+  width: 620px;
+  height: 720px;
+  border-style: solid;
+  border-color: blue;
+}
+
+.mypic {
+  text-align: center;
+}
+
+.mytable {
+  text-align: center;
+}
+.td-heading{
+  color: blue;
+}
